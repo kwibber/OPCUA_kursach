@@ -2,5 +2,5 @@
 #include <fstream>
 
 int main(){
-
+    int n;
 }
