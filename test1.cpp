@@ -1,8 +1,9 @@
-#include <open62541/client.h>
-#include <open62541/client_highlevel.h>
-#include <open62541/plugin/log_stdout.h>
+#include <open62541pp>
+//#include <open62541/client_highlevel.h>
+//#include <open62541/plugin/log_stdout.h>
 #include <stdlib.h>
-
+add_subdirectory(extern/open62541pp) # каталог подмодуля
+target_link_libraries(myexecutable PRIVATE open62541pp::open62541pp)
 int main(void) {
     UA_Client *client = UA_Client_new();
     UA_ClientConfig_setDefault(UA_Client_getConfig(client));
