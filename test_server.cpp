@@ -1,5 +1,6 @@
 #include <open62541pp/node.hpp>
 #include <open62541pp/server.hpp>
+#include<iostream>
 
 int main() {
     opcua::Server server;

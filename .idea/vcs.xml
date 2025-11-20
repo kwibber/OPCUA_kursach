@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/doxygen-awesome-css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541-nodeset-loader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541-nodeset-loader/cmake-conan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541/deps/mdnsd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541/deps/mqtt-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/3rdparty/open62541/deps/ua-nodeset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open62541pp/build/_deps/catch2-src" vcs="Git" />
+  </component>
+</project>
